@@ -1,2 +1,2 @@
-email :
-gitID :
+email : jhr971209@gmail.com
+gitID : ryeong_rong
